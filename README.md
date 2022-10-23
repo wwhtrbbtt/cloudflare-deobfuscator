@@ -2,6 +2,9 @@
 
 A dynamic deobfuscator for cloudflare's antibot javascript challenge
 
+## Credit
+
+This deobfuscator was originally written by https://github.com/ffeelix
 
 ## Features
 1) Unconceals String Conceals
